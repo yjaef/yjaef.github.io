@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://yjaef.github.io/Fpx/sitemap.Fpx.gz
